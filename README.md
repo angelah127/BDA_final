@@ -5,6 +5,8 @@ An end-to-end data monetization platform designed for autonomous vehicle (AV) re
 ## Live Demo
 - **Deployed App:** [[https://bdafinal-b13902030.streamlit.app/](https://bdafinal-b13902030.streamlit.app/)](https://bdafinal-lhg5bxssv48aas8lkhtduw.streamlit.app/)
 
+## Evidence of Demand
+To validate our business model, we conducted targeted mini-surveys with active CV/AV researchers. Read the full questions and qualitative insights here: [Survey Summary](survey_summary.md).
 ## How to Run Locally
 
 1. Clone this repository:
@@ -14,3 +16,4 @@ git clone https://github.com/angelah127/BDA_final.git
 cd BDA_final
 pip install -r requirements.txt
 streamlit run app.py
+
