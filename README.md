@@ -13,11 +13,11 @@ To validate our business model, we conducted targeted mini-surveys with active C
    
 2. Install the required dependencies:
    ˋˋˋbash
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
-3. Launch the Streamlit application:
+4. Launch the Streamlit application:
    ˋˋˋbash
-streamlit run app.py
+   streamlit run app.py
 
 ## Architecture Overview
 The system architecture traces a direct linear path from ingestion to revenue. It decouples raw mass storage from interactive query delivery, maximizing stateless computational throughput:
