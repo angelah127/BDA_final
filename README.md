@@ -9,5 +9,8 @@ An end-to-end data monetization platform designed for autonomous vehicle (AV) re
 
 1. Clone this repository:
   ```bash
-   git clone https://github.com/angelah127/BDA_final.git
-   cd BDA_final
+
+git clone https://github.com/angelah127/BDA_final.git
+cd BDA_final
+pip install -r requirements.txt
+streamlit run app.py
