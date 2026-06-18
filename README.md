@@ -12,11 +12,11 @@ To validate our business model, we conducted targeted mini-surveys with active C
    cd BDA_final
    
 2. Install the required dependencies:
-   ˋˋˋbash
+   ```bash
    pip install -r requirements.txt
 
 4. Launch the Streamlit application:
-   ˋˋˋbash
+   ```bash
    streamlit run app.py
 
 ## Architecture Overview
